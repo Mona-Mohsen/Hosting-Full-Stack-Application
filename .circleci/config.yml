@@ -62,6 +62,7 @@ jobs:
             npm run deploy
             
 workflows:
+  main:
     jobs:
       - build
       - hold:
