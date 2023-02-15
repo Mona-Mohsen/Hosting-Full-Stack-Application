@@ -45,22 +45,6 @@ Provision the necessary AWS services needed for running the application:
 
 ## Testing
 
-POSTGRES_USERNAME="postgres"
-POSTGRES_PASSWORD="1234"
-POSTGRES_DB="udagram"
-POSTGRES_HOST="udagram-api-dev.eba-3dvw8mm5.us-east-1.elasticbeanstalk.com"
-AWS_REGION="us-east-1"
-AWS_PROFILE="default"
-AWS_BUCKET="http://myudagrambucket2396646.s3-website-us-east-1.amazonaws.com"
-URL="http://udagram-api-dev.eba-3dvw8mm5.us-east-1.elasticbeanstalk.com"
-AWS_ACCESS_KEY_ID="AKIATRX6653CJETTASLV"
-AWS_SECRET_ACCESS_KEY="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"
-JWT_SECRET="HI"
-PORT=3000
-DB_PORT=8080
-
-
-
 This project contains two different test suite: unit tests and End-To-End tests(e2e). Follow these steps to run the tests.
 
 1. `cd starter/udagram-frontend`
