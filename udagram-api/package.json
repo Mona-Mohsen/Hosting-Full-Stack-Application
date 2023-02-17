@@ -1,7 +1,7 @@
 {
   "name": "udagram-api",
   "version": "2.0.0",
-  "description": "",
+  "description": "Host Full Stack Project",
   "engines": {
     "node": "16.17.1"
   },
